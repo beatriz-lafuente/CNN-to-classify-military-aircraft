@@ -1,4 +1,4 @@
-# Military-Aircraft
+# Military Aircraft
 This work identifies military aircrafts on images and classify the identified aircrafts into several aircraft types.
 
 # Introduction
